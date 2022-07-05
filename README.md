@@ -1,6 +1,6 @@
-### Hi, 👋I'm WANG Yiyao(Erueka)
+### Hi, 👋I'm Erueka Wang
 -----
-- 🌱 I’m currently learning CS in UCAS.
+- 🌱 I’m currently learning CS at UCAS.
 - "Eureka!" means "I find it!" I want to be an explorer to search for what I interest in.
 
 <!--
